@@ -69,6 +69,11 @@ curl https://cli.nexus.xyz/ | sh
 source ~/.bashrc
 nexus-network start --node-id YOUR_NODE_ID
 ```
+>example 
+```bash
+source ~/.bashrc
+nexus-network start --node-id 6756232
+```
 
 > 🔁 Replace `YOUR_NODE_ID` with your actual node ID from the Nexus dashboard.
 
