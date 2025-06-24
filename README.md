@@ -74,7 +74,10 @@ nexus-network start --node-id YOUR_NODE_ID
 source ~/.bashrc
 nexus-network start --node-id 6756232
 ```
-
+```bash
+source ~/.bashrc
+nexus-network start --node-id 7268428
+```
 > 🔁 Replace `YOUR_NODE_ID` with your actual node ID from the Nexus dashboard.
 
 ---
